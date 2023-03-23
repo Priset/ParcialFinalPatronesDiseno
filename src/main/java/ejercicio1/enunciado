@@ -1,0 +1,6 @@
+1) 15% Composite: se tiene un elemento base zona (nombre, numeroHabitantes, poa),
+cuando vamos agrupando zonas se genera un nuevo elemento que se llama
+urbanizacion(nombre,numeroHabitantes(suma de habitantes de las zonas) ,poa),
+agrupaciones de urbanizaciones se lo denomina departamento, agrupaciones de
+departamentos se lo denomina Pais, mostras la cantidad de habitantes total en cada
+agrupación.

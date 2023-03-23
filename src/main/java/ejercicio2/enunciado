@@ -1,0 +1,7 @@
+2) 15% Decorator: Se tiene distintos tipos de celulares Android, Xiaomi, Huawei , estos
+tienen los atributos: AndroidVersion, MemoriaRam, Store, NumeroChips, BuildVersion a
+estos tipos de celulares se los puede agregar nueva funcionalidad como ser: RAM
+(capacidad, marca, costo, nota la capacidad debe sumarse a la memoria ram con la
+que ya viene por defecto el celular), Audifonos (costo, marca) , Cargador (costo, marca,
+tamano), tome en cuenta que el costo de los accesorios suma al costo original del
+celular y debe imprimirse ese dato.
